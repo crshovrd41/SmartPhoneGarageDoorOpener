@@ -11,8 +11,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 //#define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPLFUG1Pj-M"
-#define BLYNK_DEVICE_NAME "1527 Garage Door"
+#define BLYNK_TEMPLATE_ID "XXXXX"
+#define BLYNK_DEVICE_NAME "XXXXX"
 #define BLYNK_AUTH_TOKEN  "AUTH_TOKEN";
 
 // You should get Auth Token in the Blynk App.
